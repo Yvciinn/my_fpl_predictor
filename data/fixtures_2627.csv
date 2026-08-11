@@ -1,0 +1,381 @@
+id,GW,kickoff,home_team,away_team,stadium,city,status
+128923.0,1.0,"Fri 21 Aug 2026, 20:00 BST",Arsenal,Coventry City,Emirates Stadium,London,U
+128926.0,1.0,"Sat 22 Aug 2026, 12:30 BST",Hull City,Manchester United,The MKM Stadium,Hull,U
+128925.0,1.0,"Sat 22 Aug 2026, 15:00 BST",Everton,Crystal Palace,Hill Dickinson Stadium,Liverpool,U
+128927.0,1.0,"Sat 22 Aug 2026, 15:00 BST",Ipswich Town,Sunderland,Portman Road,Ipswich,U
+128928.0,1.0,"Sat 22 Aug 2026, 15:00 BST",Nottingham Forest,Leeds United,The City Ground,Nottingham,U
+128924.0,1.0,"Sat 22 Aug 2026, 17:30 BST",Brentford,Tottenham Hotspur,Gtech Community Stadium,Brentford,U
+128929.0,1.0,"Sun 23 Aug 2026, 14:00 BST",Brighton & Hove Albion,Aston Villa,American Express Stadium,Falmer,U
+128930.0,1.0,"Sun 23 Aug 2026, 14:00 BST",Manchester City,Bournemouth,Etihad Stadium,Manchester,U
+128931.0,1.0,"Sun 23 Aug 2026, 16:30 BST",Newcastle United,Liverpool,St. James' Park,Newcastle,U
+128932.0,1.0,"Mon 24 Aug 2026, 20:00 BST",Fulham,Chelsea,Craven Cottage,London,U
+128937.0,2.0,"Fri 28 Aug 2026, 20:00 BST",Crystal Palace,Manchester City,Selhurst Park,London,U
+128939.0,2.0,"Sat 29 Aug 2026, 12:30 BST",Liverpool,Nottingham Forest,Anfield,Liverpool,U
+128934.0,2.0,"Sat 29 Aug 2026, 15:00 BST",Bournemouth,Everton,Vitality Stadium,Bournemouth,U
+128936.0,2.0,"Sat 29 Aug 2026, 15:00 BST",Coventry City,Hull City,Coventry Building Society Arena,Coventry,U
+128942.0,2.0,"Sat 29 Aug 2026, 17:30 BST",Tottenham Hotspur,Newcastle United,Tottenham Hotspur Stadium,London,U
+128935.0,2.0,"Sun 30 Aug 2026, 14:00 BST",Chelsea,Brighton & Hove Albion,Stamford Bridge,London,U
+128938.0,2.0,"Sun 30 Aug 2026, 14:00 BST",Leeds United,Brentford,Elland Road,Leeds,U
+128941.0,2.0,"Sun 30 Aug 2026, 14:00 BST",Sunderland,Fulham,Stadium of Light,Sunderland,U
+128940.0,2.0,"Sun 30 Aug 2026, 16:30 BST",Manchester United,Ipswich Town,Old Trafford,Manchester,U
+128933.0,2.0,"Mon 31 Aug 2026, 20:00 BST",Aston Villa,Arsenal,Villa Park,Birmingham,U
+128949.0,3.0,"Fri 4 Sep 2026, 20:00 BST",Ipswich Town,Liverpool,Portman Road,Ipswich,U
+128951.0,3.0,"Sat 5 Sep 2026, 12:30 BST",Newcastle United,Bournemouth,St. James' Park,Newcastle,U
+128944.0,3.0,"Sat 5 Sep 2026, 15:00 BST",Brentford,Sunderland,Gtech Community Stadium,Brentford,U
+128945.0,3.0,"Sat 5 Sep 2026, 15:00 BST",Brighton & Hove Albion,Leeds United,American Express Stadium,Falmer,U
+128947.0,3.0,"Sat 5 Sep 2026, 15:00 BST",Fulham,Crystal Palace,Craven Cottage,London,U
+128950.0,3.0,"Sat 5 Sep 2026, 15:00 BST",Manchester City,Coventry City,Etihad Stadium,Manchester,U
+128952.0,3.0,"Sat 5 Sep 2026, 15:00 BST",Nottingham Forest,Tottenham Hotspur,The City Ground,Nottingham,U
+128948.0,3.0,"Sat 5 Sep 2026, 17:30 BST",Hull City,Aston Villa,The MKM Stadium,Hull,U
+128946.0,3.0,"Sun 6 Sep 2026, 14:00 BST",Everton,Manchester United,Hill Dickinson Stadium,Liverpool,U
+128943.0,3.0,"Sun 6 Sep 2026, 16:30 BST",Arsenal,Chelsea,Emirates Stadium,London,U
+128953.0,4.0,"Sat 12 Sep 2026, 15:00 BST",Aston Villa,Nottingham Forest,Villa Park,Birmingham,U
+128954.0,4.0,"Sat 12 Sep 2026, 15:00 BST",Bournemouth,Brentford,Vitality Stadium,Bournemouth,U
+128955.0,4.0,"Sat 12 Sep 2026, 15:00 BST",Chelsea,Hull City,Stamford Bridge,London,U
+128957.0,4.0,"Sat 12 Sep 2026, 15:00 BST",Crystal Palace,Ipswich Town,Selhurst Park,London,U
+128959.0,4.0,"Sat 12 Sep 2026, 15:00 BST",Liverpool,Fulham,Anfield,Liverpool,U
+128962.0,4.0,"Sat 12 Sep 2026, 17:30 BST",Tottenham Hotspur,Everton,Tottenham Hotspur Stadium,London,U
+128961.0,4.0,"Sat 12 Sep 2026, 20:00 BST",Sunderland,Arsenal,Stadium of Light,Sunderland,U
+128956.0,4.0,"Sun 13 Sep 2026, 14:00 BST",Coventry City,Brighton & Hove Albion,Coventry Building Society Arena,Coventry,U
+128960.0,4.0,"Sun 13 Sep 2026, 16:30 BST",Manchester United,Manchester City,Old Trafford,Manchester,U
+128958.0,4.0,"Mon 14 Sep 2026, 20:00 BST",Leeds United,Newcastle United,Elland Road,Leeds,U
+128964.0,5.0,"Fri 18 Sep 2026, 20:00 BST",Brentford,Chelsea,Gtech Community Stadium,Brentford,U
+128972.0,5.0,"Sat 19 Sep 2026, 12:30 BST",Tottenham Hotspur,Aston Villa,Tottenham Hotspur Stadium,London,U
+128965.0,5.0,"Sat 19 Sep 2026, 15:00 BST",Brighton & Hove Albion,Arsenal,American Express Stadium,Falmer,U
+128966.0,5.0,"Sat 19 Sep 2026, 15:00 BST",Everton,Ipswich Town,Hill Dickinson Stadium,Liverpool,U
+128968.0,5.0,"Sat 19 Sep 2026, 15:00 BST",Leeds United,Crystal Palace,Elland Road,Leeds,U
+128969.0,5.0,"Sat 19 Sep 2026, 15:00 BST",Manchester City,Sunderland,Etihad Stadium,Manchester,U
+128970.0,5.0,"Sat 19 Sep 2026, 15:00 BST",Newcastle United,Hull City,St. James' Park,Newcastle,U
+128971.0,5.0,"Sat 19 Sep 2026, 17:30 BST",Nottingham Forest,Coventry City,The City Ground,Nottingham,U
+128963.0,5.0,"Sun 20 Sep 2026, 14:00 BST",Bournemouth,Liverpool,Vitality Stadium,Bournemouth,U
+128967.0,5.0,"Sun 20 Sep 2026, 16:30 BST",Fulham,Manchester United,Craven Cottage,London,U
+128973.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Arsenal,Leeds United,Emirates Stadium,London,U
+128974.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Aston Villa,Brentford,Villa Park,Birmingham,U
+128975.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Chelsea,Bournemouth,Stamford Bridge,London,U
+128976.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Coventry City,Newcastle United,Coventry Building Society Arena,Coventry,U
+128977.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Crystal Palace,Nottingham Forest,Selhurst Park,London,U
+128978.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Hull City,Everton,The MKM Stadium,Hull,U
+128979.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Ipswich Town,Fulham,Portman Road,Ipswich,U
+128980.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Liverpool,Manchester City,Anfield,Liverpool,U
+128981.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Manchester United,Tottenham Hotspur,Old Trafford,Manchester,U
+128982.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Sunderland,Brighton & Hove Albion,Stadium of Light,Sunderland,U
+128983.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Bournemouth,Sunderland,Vitality Stadium,Bournemouth,U
+128984.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Brentford,Liverpool,Gtech Community Stadium,Brentford,U
+128985.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Brighton & Hove Albion,Crystal Palace,American Express Stadium,Falmer,U
+128986.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Everton,Chelsea,Hill Dickinson Stadium,Liverpool,U
+128987.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Fulham,Hull City,Craven Cottage,London,U
+128988.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Leeds United,Manchester United,Elland Road,Leeds,U
+128989.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Manchester City,Ipswich Town,Etihad Stadium,Manchester,U
+128990.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Newcastle United,Aston Villa,St. James' Park,Newcastle,U
+128991.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Nottingham Forest,Arsenal,The City Ground,Nottingham,U
+128992.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Tottenham Hotspur,Coventry City,Tottenham Hotspur Stadium,London,U
+128993.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Arsenal,Everton,Emirates Stadium,London,U
+128994.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Aston Villa,Manchester City,Villa Park,Birmingham,U
+128995.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Chelsea,Tottenham Hotspur,Stamford Bridge,London,U
+128996.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Coventry City,Fulham,Coventry Building Society Arena,Coventry,U
+128997.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Crystal Palace,Newcastle United,Selhurst Park,London,U
+128998.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Hull City,Brentford,The MKM Stadium,Hull,U
+128999.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Ipswich Town,Nottingham Forest,Portman Road,Ipswich,U
+129000.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Liverpool,Brighton & Hove Albion,Anfield,Liverpool,U
+129001.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Manchester United,Bournemouth,Old Trafford,Manchester,U
+129002.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Sunderland,Leeds United,Stadium of Light,Sunderland,U
+129003.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Aston Villa,Fulham,Villa Park,Birmingham,U
+129004.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Bournemouth,Leeds United,Vitality Stadium,Bournemouth,U
+129005.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Brentford,Nottingham Forest,Gtech Community Stadium,Brentford,U
+129006.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Chelsea,Manchester United,Stamford Bridge,London,U
+129007.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Coventry City,Sunderland,Coventry Building Society Arena,Coventry,U
+129008.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Hull City,Ipswich Town,The MKM Stadium,Hull,U
+129009.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Liverpool,Arsenal,Anfield,Liverpool,U
+129010.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Manchester City,Brighton & Hove Albion,Etihad Stadium,Manchester,U
+129011.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Newcastle United,Everton,St. James' Park,Newcastle,U
+129012.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Tottenham Hotspur,Crystal Palace,Tottenham Hotspur Stadium,London,U
+129013.0,10.0,"Sat 7 Nov 2026, 15:00 GMT",Arsenal,Hull City,Emirates Stadium,London,U
+129014.0,10.0,"Sat 7 Nov 2026, 15:00 GMT",Brighton & Hove Albion,Brentford,American Express Stadium,Falmer,U
+129015.0,10.0,"Sat 7 Nov 2026, 15:00 GMT",Crystal Palace,Liverpool,Selhurst Park,London,U
+129016.0,10.0,"Sat 7 Nov 2026, 15:00 GMT",Everton,Coventry City,Hill Dickinson Stadium,Liverpool,U
+129017.0,10.0,"Sat 7 Nov 2026, 15:00 GMT",Fulham,Newcastle United,Craven Cottage,London,U
+129018.0,10.0,"Sat 7 Nov 2026, 15:00 GMT",Ipswich Town,Bournemouth,Portman Road,Ipswich,U
+129019.0,10.0,"Sat 7 Nov 2026, 15:00 GMT",Leeds United,Tottenham Hotspur,Elland Road,Leeds,U
+129020.0,10.0,"Sat 7 Nov 2026, 15:00 GMT",Manchester United,Aston Villa,Old Trafford,Manchester,U
+129021.0,10.0,"Sat 7 Nov 2026, 15:00 GMT",Nottingham Forest,Manchester City,The City Ground,Nottingham,U
+129022.0,10.0,"Sat 7 Nov 2026, 15:00 GMT",Sunderland,Chelsea,Stadium of Light,Sunderland,U
+129023.0,11.0,"Sat 21 Nov 2026, 15:00 GMT",Aston Villa,Sunderland,Villa Park,Birmingham,U
+129024.0,11.0,"Sat 21 Nov 2026, 15:00 GMT",Bournemouth,Nottingham Forest,Vitality Stadium,Bournemouth,U
+129025.0,11.0,"Sat 21 Nov 2026, 15:00 GMT",Brentford,Everton,Gtech Community Stadium,Brentford,U
+129026.0,11.0,"Sat 21 Nov 2026, 15:00 GMT",Chelsea,Leeds United,Stamford Bridge,London,U
+129027.0,11.0,"Sat 21 Nov 2026, 15:00 GMT",Coventry City,Crystal Palace,Coventry Building Society Arena,Coventry,U
+129028.0,11.0,"Sat 21 Nov 2026, 15:00 GMT",Hull City,Brighton & Hove Albion,The MKM Stadium,Hull,U
+129029.0,11.0,"Sat 21 Nov 2026, 15:00 GMT",Liverpool,Manchester United,Anfield,Liverpool,U
+129030.0,11.0,"Sat 21 Nov 2026, 15:00 GMT",Manchester City,Fulham,Etihad Stadium,Manchester,U
+129031.0,11.0,"Sat 21 Nov 2026, 15:00 GMT",Newcastle United,Arsenal,St. James' Park,Newcastle,U
+129032.0,11.0,"Sat 21 Nov 2026, 15:00 GMT",Tottenham Hotspur,Ipswich Town,Tottenham Hotspur Stadium,London,U
+129033.0,12.0,"Sat 28 Nov 2026, 15:00 GMT",Arsenal,Manchester City,Emirates Stadium,London,U
+129034.0,12.0,"Sat 28 Nov 2026, 15:00 GMT",Brighton & Hove Albion,Newcastle United,American Express Stadium,Falmer,U
+129035.0,12.0,"Sat 28 Nov 2026, 15:00 GMT",Crystal Palace,Hull City,Selhurst Park,London,U
+129036.0,12.0,"Sat 28 Nov 2026, 15:00 GMT",Everton,Liverpool,Hill Dickinson Stadium,Liverpool,U
+129037.0,12.0,"Sat 28 Nov 2026, 15:00 GMT",Fulham,Bournemouth,Craven Cottage,London,U
+129038.0,12.0,"Sat 28 Nov 2026, 15:00 GMT",Ipswich Town,Aston Villa,Portman Road,Ipswich,U
+129039.0,12.0,"Sat 28 Nov 2026, 15:00 GMT",Leeds United,Coventry City,Elland Road,Leeds,U
+129040.0,12.0,"Sat 28 Nov 2026, 15:00 GMT",Manchester United,Brentford,Old Trafford,Manchester,U
+129041.0,12.0,"Sat 28 Nov 2026, 15:00 GMT",Nottingham Forest,Chelsea,The City Ground,Nottingham,U
+129042.0,12.0,"Sat 28 Nov 2026, 15:00 GMT",Sunderland,Tottenham Hotspur,Stadium of Light,Sunderland,U
+129043.0,13.0,"Wed 2 Dec 2026, 20:00 GMT",Aston Villa,Everton,Villa Park,Birmingham,U
+129044.0,13.0,"Wed 2 Dec 2026, 20:00 GMT",Bournemouth,Brighton & Hove Albion,Vitality Stadium,Bournemouth,U
+129045.0,13.0,"Wed 2 Dec 2026, 20:00 GMT",Brentford,Arsenal,Gtech Community Stadium,Brentford,U
+129046.0,13.0,"Wed 2 Dec 2026, 20:00 GMT",Chelsea,Crystal Palace,Stamford Bridge,London,U
+129047.0,13.0,"Wed 2 Dec 2026, 20:00 GMT",Coventry City,Ipswich Town,Coventry Building Society Arena,Coventry,U
+129048.0,13.0,"Wed 2 Dec 2026, 20:00 GMT",Hull City,Nottingham Forest,The MKM Stadium,Hull,U
+129049.0,13.0,"Wed 2 Dec 2026, 20:00 GMT",Liverpool,Sunderland,Anfield,Liverpool,U
+129050.0,13.0,"Wed 2 Dec 2026, 20:00 GMT",Manchester City,Leeds United,Etihad Stadium,Manchester,U
+129051.0,13.0,"Wed 2 Dec 2026, 20:00 GMT",Newcastle United,Manchester United,St. James' Park,Newcastle,U
+129052.0,13.0,"Wed 2 Dec 2026, 20:00 GMT",Tottenham Hotspur,Fulham,Tottenham Hotspur Stadium,London,U
+129053.0,14.0,"Sat 5 Dec 2026, 15:00 GMT",Aston Villa,Crystal Palace,Villa Park,Birmingham,U
+129054.0,14.0,"Sat 5 Dec 2026, 15:00 GMT",Bournemouth,Hull City,Vitality Stadium,Bournemouth,U
+129055.0,14.0,"Sat 5 Dec 2026, 15:00 GMT",Brentford,Manchester City,Gtech Community Stadium,Brentford,U
+129056.0,14.0,"Sat 5 Dec 2026, 15:00 GMT",Chelsea,Liverpool,Stamford Bridge,London,U
+129057.0,14.0,"Sat 5 Dec 2026, 15:00 GMT",Everton,Fulham,Hill Dickinson Stadium,Liverpool,U
+129058.0,14.0,"Sat 5 Dec 2026, 15:00 GMT",Leeds United,Ipswich Town,Elland Road,Leeds,U
+129059.0,14.0,"Sat 5 Dec 2026, 15:00 GMT",Manchester United,Coventry City,Old Trafford,Manchester,U
+129060.0,14.0,"Sat 5 Dec 2026, 15:00 GMT",Newcastle United,Sunderland,St. James' Park,Newcastle,U
+129061.0,14.0,"Sat 5 Dec 2026, 15:00 GMT",Nottingham Forest,Brighton & Hove Albion,The City Ground,Nottingham,U
+129062.0,14.0,"Sat 5 Dec 2026, 15:00 GMT",Tottenham Hotspur,Arsenal,Tottenham Hotspur Stadium,London,U
+129063.0,15.0,"Sat 12 Dec 2026, 15:00 GMT",Arsenal,Bournemouth,Emirates Stadium,London,U
+129064.0,15.0,"Sat 12 Dec 2026, 15:00 GMT",Brighton & Hove Albion,Everton,American Express Stadium,Falmer,U
+129065.0,15.0,"Sat 12 Dec 2026, 15:00 GMT",Coventry City,Aston Villa,Coventry Building Society Arena,Coventry,U
+129066.0,15.0,"Sat 12 Dec 2026, 15:00 GMT",Crystal Palace,Manchester United,Selhurst Park,London,U
+129067.0,15.0,"Sat 12 Dec 2026, 15:00 GMT",Fulham,Brentford,Craven Cottage,London,U
+129068.0,15.0,"Sat 12 Dec 2026, 15:00 GMT",Hull City,Tottenham Hotspur,The MKM Stadium,Hull,U
+129069.0,15.0,"Sat 12 Dec 2026, 15:00 GMT",Ipswich Town,Newcastle United,Portman Road,Ipswich,U
+129070.0,15.0,"Sat 12 Dec 2026, 15:00 GMT",Liverpool,Leeds United,Anfield,Liverpool,U
+129071.0,15.0,"Sat 12 Dec 2026, 15:00 GMT",Manchester City,Chelsea,Etihad Stadium,Manchester,U
+129072.0,15.0,"Sat 12 Dec 2026, 15:00 GMT",Sunderland,Nottingham Forest,Stadium of Light,Sunderland,U
+129073.0,16.0,"Sat 19 Dec 2026, 15:00 GMT",Arsenal,Manchester United,Emirates Stadium,London,U
+129074.0,16.0,"Sat 19 Dec 2026, 15:00 GMT",Bournemouth,Coventry City,Vitality Stadium,Bournemouth,U
+129075.0,16.0,"Sat 19 Dec 2026, 15:00 GMT",Brentford,Newcastle United,Gtech Community Stadium,Brentford,U
+129076.0,16.0,"Sat 19 Dec 2026, 15:00 GMT",Brighton & Hove Albion,Ipswich Town,American Express Stadium,Falmer,U
+129077.0,16.0,"Sat 19 Dec 2026, 15:00 GMT",Chelsea,Aston Villa,Stamford Bridge,London,U
+129078.0,16.0,"Sat 19 Dec 2026, 15:00 GMT",Leeds United,Fulham,Elland Road,Leeds,U
+129079.0,16.0,"Sat 19 Dec 2026, 15:00 GMT",Liverpool,Tottenham Hotspur,Anfield,Liverpool,U
+129080.0,16.0,"Sat 19 Dec 2026, 15:00 GMT",Manchester City,Hull City,Etihad Stadium,Manchester,U
+129081.0,16.0,"Sat 19 Dec 2026, 15:00 GMT",Nottingham Forest,Everton,The City Ground,Nottingham,U
+129082.0,16.0,"Sat 19 Dec 2026, 15:00 GMT",Sunderland,Crystal Palace,Stadium of Light,Sunderland,U
+129083.0,17.0,"Sat 26 Dec 2026, 15:00 GMT",Aston Villa,Leeds United,Villa Park,Birmingham,U
+129084.0,17.0,"Sat 26 Dec 2026, 15:00 GMT",Coventry City,Chelsea,Coventry Building Society Arena,Coventry,U
+129085.0,17.0,"Sat 26 Dec 2026, 15:00 GMT",Crystal Palace,Arsenal,Selhurst Park,London,U
+129086.0,17.0,"Sat 26 Dec 2026, 15:00 GMT",Everton,Sunderland,Hill Dickinson Stadium,Liverpool,U
+129087.0,17.0,"Sat 26 Dec 2026, 15:00 GMT",Fulham,Brighton & Hove Albion,Craven Cottage,London,U
+129088.0,17.0,"Sat 26 Dec 2026, 15:00 GMT",Hull City,Liverpool,The MKM Stadium,Hull,U
+129089.0,17.0,"Sat 26 Dec 2026, 15:00 GMT",Ipswich Town,Brentford,Portman Road,Ipswich,U
+129090.0,17.0,"Sat 26 Dec 2026, 15:00 GMT",Manchester United,Nottingham Forest,Old Trafford,Manchester,U
+129091.0,17.0,"Sat 26 Dec 2026, 15:00 GMT",Newcastle United,Manchester City,St. James' Park,Newcastle,U
+129092.0,17.0,"Sat 26 Dec 2026, 15:00 GMT",Tottenham Hotspur,Bournemouth,Tottenham Hotspur Stadium,London,U
+129093.0,18.0,"Wed 30 Dec 2026, 20:00 GMT",Aston Villa,Liverpool,Villa Park,Birmingham,U
+129094.0,18.0,"Wed 30 Dec 2026, 20:00 GMT",Coventry City,Brentford,Coventry Building Society Arena,Coventry,U
+129095.0,18.0,"Wed 30 Dec 2026, 20:00 GMT",Crystal Palace,Bournemouth,Selhurst Park,London,U
+129096.0,18.0,"Wed 30 Dec 2026, 20:00 GMT",Everton,Manchester City,Hill Dickinson Stadium,Liverpool,U
+129097.0,18.0,"Wed 30 Dec 2026, 20:00 GMT",Fulham,Arsenal,Craven Cottage,London,U
+129098.0,18.0,"Wed 30 Dec 2026, 20:00 GMT",Hull City,Leeds United,The MKM Stadium,Hull,U
+129099.0,18.0,"Wed 30 Dec 2026, 20:00 GMT",Ipswich Town,Chelsea,Portman Road,Ipswich,U
+129100.0,18.0,"Wed 30 Dec 2026, 20:00 GMT",Manchester United,Sunderland,Old Trafford,Manchester,U
+129101.0,18.0,"Wed 30 Dec 2026, 20:00 GMT",Newcastle United,Nottingham Forest,St. James' Park,Newcastle,U
+129102.0,18.0,"Wed 30 Dec 2026, 20:00 GMT",Tottenham Hotspur,Brighton & Hove Albion,Tottenham Hotspur Stadium,London,U
+129103.0,19.0,"Sat 2 Jan 2027, 15:00 GMT",Arsenal,Ipswich Town,Emirates Stadium,London,U
+129104.0,19.0,"Sat 2 Jan 2027, 15:00 GMT",Bournemouth,Aston Villa,Vitality Stadium,Bournemouth,U
+129105.0,19.0,"Sat 2 Jan 2027, 15:00 GMT",Brentford,Crystal Palace,Gtech Community Stadium,Brentford,U
+129106.0,19.0,"Sat 2 Jan 2027, 15:00 GMT",Brighton & Hove Albion,Manchester United,American Express Stadium,Falmer,U
+129107.0,19.0,"Sat 2 Jan 2027, 15:00 GMT",Chelsea,Newcastle United,Stamford Bridge,London,U
+129108.0,19.0,"Sat 2 Jan 2027, 15:00 GMT",Leeds United,Everton,Elland Road,Leeds,U
+129109.0,19.0,"Sat 2 Jan 2027, 15:00 GMT",Liverpool,Coventry City,Anfield,Liverpool,U
+129110.0,19.0,"Sat 2 Jan 2027, 15:00 GMT",Manchester City,Tottenham Hotspur,Etihad Stadium,Manchester,U
+129111.0,19.0,"Sat 2 Jan 2027, 15:00 GMT",Nottingham Forest,Fulham,The City Ground,Nottingham,U
+129112.0,19.0,"Sat 2 Jan 2027, 15:00 GMT",Sunderland,Hull City,Stadium of Light,Sunderland,U
+129113.0,20.0,"Wed 6 Jan 2027, 20:00 GMT",Arsenal,Brentford,Emirates Stadium,London,U
+129114.0,20.0,"Wed 6 Jan 2027, 20:00 GMT",Brighton & Hove Albion,Bournemouth,American Express Stadium,Falmer,U
+129115.0,20.0,"Wed 6 Jan 2027, 20:00 GMT",Crystal Palace,Chelsea,Selhurst Park,London,U
+129116.0,20.0,"Wed 6 Jan 2027, 20:00 GMT",Everton,Aston Villa,Hill Dickinson Stadium,Liverpool,U
+129117.0,20.0,"Wed 6 Jan 2027, 20:00 GMT",Fulham,Tottenham Hotspur,Craven Cottage,London,U
+129118.0,20.0,"Wed 6 Jan 2027, 20:00 GMT",Ipswich Town,Coventry City,Portman Road,Ipswich,U
+129119.0,20.0,"Wed 6 Jan 2027, 20:00 GMT",Leeds United,Manchester City,Elland Road,Leeds,U
+129120.0,20.0,"Wed 6 Jan 2027, 20:00 GMT",Manchester United,Newcastle United,Old Trafford,Manchester,U
+129121.0,20.0,"Wed 6 Jan 2027, 20:00 GMT",Nottingham Forest,Hull City,The City Ground,Nottingham,U
+129122.0,20.0,"Wed 6 Jan 2027, 20:00 GMT",Sunderland,Liverpool,Stadium of Light,Sunderland,U
+129123.0,21.0,"Sat 16 Jan 2027, 15:00 GMT",Aston Villa,Manchester United,Villa Park,Birmingham,U
+129124.0,21.0,"Sat 16 Jan 2027, 15:00 GMT",Bournemouth,Ipswich Town,Vitality Stadium,Bournemouth,U
+129125.0,21.0,"Sat 16 Jan 2027, 15:00 GMT",Brentford,Brighton & Hove Albion,Gtech Community Stadium,Brentford,U
+129126.0,21.0,"Sat 16 Jan 2027, 15:00 GMT",Chelsea,Sunderland,Stamford Bridge,London,U
+129127.0,21.0,"Sat 16 Jan 2027, 15:00 GMT",Coventry City,Everton,Coventry Building Society Arena,Coventry,U
+129128.0,21.0,"Sat 16 Jan 2027, 15:00 GMT",Hull City,Arsenal,The MKM Stadium,Hull,U
+129129.0,21.0,"Sat 16 Jan 2027, 15:00 GMT",Liverpool,Crystal Palace,Anfield,Liverpool,U
+129130.0,21.0,"Sat 16 Jan 2027, 15:00 GMT",Manchester City,Nottingham Forest,Etihad Stadium,Manchester,U
+129131.0,21.0,"Sat 16 Jan 2027, 15:00 GMT",Newcastle United,Fulham,St. James' Park,Newcastle,U
+129132.0,21.0,"Sat 16 Jan 2027, 15:00 GMT",Tottenham Hotspur,Leeds United,Tottenham Hotspur Stadium,London,U
+129133.0,22.0,"Sat 23 Jan 2027, 15:00 GMT",Arsenal,Newcastle United,Emirates Stadium,London,U
+129134.0,22.0,"Sat 23 Jan 2027, 15:00 GMT",Brighton & Hove Albion,Manchester City,American Express Stadium,Falmer,U
+129135.0,22.0,"Sat 23 Jan 2027, 15:00 GMT",Crystal Palace,Tottenham Hotspur,Selhurst Park,London,U
+129136.0,22.0,"Sat 23 Jan 2027, 15:00 GMT",Everton,Brentford,Hill Dickinson Stadium,Liverpool,U
+129137.0,22.0,"Sat 23 Jan 2027, 15:00 GMT",Fulham,Aston Villa,Craven Cottage,London,U
+129138.0,22.0,"Sat 23 Jan 2027, 15:00 GMT",Ipswich Town,Hull City,Portman Road,Ipswich,U
+129139.0,22.0,"Sat 23 Jan 2027, 15:00 GMT",Leeds United,Chelsea,Elland Road,Leeds,U
+129140.0,22.0,"Sat 23 Jan 2027, 15:00 GMT",Manchester United,Liverpool,Old Trafford,Manchester,U
+129141.0,22.0,"Sat 23 Jan 2027, 15:00 GMT",Nottingham Forest,Bournemouth,The City Ground,Nottingham,U
+129142.0,22.0,"Sat 23 Jan 2027, 15:00 GMT",Sunderland,Coventry City,Stadium of Light,Sunderland,U
+129143.0,23.0,"Sat 30 Jan 2027, 15:00 GMT",Aston Villa,Ipswich Town,Villa Park,Birmingham,U
+129144.0,23.0,"Sat 30 Jan 2027, 15:00 GMT",Bournemouth,Fulham,Vitality Stadium,Bournemouth,U
+129145.0,23.0,"Sat 30 Jan 2027, 15:00 GMT",Brentford,Manchester United,Gtech Community Stadium,Brentford,U
+129146.0,23.0,"Sat 30 Jan 2027, 15:00 GMT",Chelsea,Nottingham Forest,Stamford Bridge,London,U
+129147.0,23.0,"Sat 30 Jan 2027, 15:00 GMT",Coventry City,Leeds United,Coventry Building Society Arena,Coventry,U
+129148.0,23.0,"Sat 30 Jan 2027, 15:00 GMT",Hull City,Crystal Palace,The MKM Stadium,Hull,U
+129149.0,23.0,"Sat 30 Jan 2027, 15:00 GMT",Liverpool,Everton,Anfield,Liverpool,U
+129150.0,23.0,"Sat 30 Jan 2027, 15:00 GMT",Manchester City,Arsenal,Etihad Stadium,Manchester,U
+129151.0,23.0,"Sat 30 Jan 2027, 15:00 GMT",Newcastle United,Brighton & Hove Albion,St. James' Park,Newcastle,U
+129152.0,23.0,"Sat 30 Jan 2027, 15:00 GMT",Tottenham Hotspur,Sunderland,Tottenham Hotspur Stadium,London,U
+129153.0,24.0,"Sat 6 Feb 2027, 15:00 GMT",Arsenal,Liverpool,Emirates Stadium,London,U
+129154.0,24.0,"Sat 6 Feb 2027, 15:00 GMT",Brighton & Hove Albion,Hull City,American Express Stadium,Falmer,U
+129155.0,24.0,"Sat 6 Feb 2027, 15:00 GMT",Crystal Palace,Coventry City,Selhurst Park,London,U
+129156.0,24.0,"Sat 6 Feb 2027, 15:00 GMT",Everton,Newcastle United,Hill Dickinson Stadium,Liverpool,U
+129157.0,24.0,"Sat 6 Feb 2027, 15:00 GMT",Fulham,Manchester City,Craven Cottage,London,U
+129158.0,24.0,"Sat 6 Feb 2027, 15:00 GMT",Ipswich Town,Tottenham Hotspur,Portman Road,Ipswich,U
+129159.0,24.0,"Sat 6 Feb 2027, 15:00 GMT",Leeds United,Bournemouth,Elland Road,Leeds,U
+129160.0,24.0,"Sat 6 Feb 2027, 15:00 GMT",Manchester United,Chelsea,Old Trafford,Manchester,U
+129161.0,24.0,"Sat 6 Feb 2027, 15:00 GMT",Nottingham Forest,Brentford,The City Ground,Nottingham,U
+129162.0,24.0,"Sat 6 Feb 2027, 15:00 GMT",Sunderland,Aston Villa,Stadium of Light,Sunderland,U
+129163.0,25.0,"Wed 10 Feb 2027, 20:00 GMT",Aston Villa,Bournemouth,Villa Park,Birmingham,U
+129164.0,25.0,"Wed 10 Feb 2027, 20:00 GMT",Coventry City,Liverpool,Coventry Building Society Arena,Coventry,U
+129165.0,25.0,"Wed 10 Feb 2027, 20:00 GMT",Crystal Palace,Brentford,Selhurst Park,London,U
+129166.0,25.0,"Wed 10 Feb 2027, 20:00 GMT",Everton,Leeds United,Hill Dickinson Stadium,Liverpool,U
+129167.0,25.0,"Wed 10 Feb 2027, 20:00 GMT",Fulham,Nottingham Forest,Craven Cottage,London,U
+129168.0,25.0,"Wed 10 Feb 2027, 20:00 GMT",Hull City,Sunderland,The MKM Stadium,Hull,U
+129169.0,25.0,"Wed 10 Feb 2027, 20:00 GMT",Ipswich Town,Arsenal,Portman Road,Ipswich,U
+129170.0,25.0,"Wed 10 Feb 2027, 20:00 GMT",Manchester United,Brighton & Hove Albion,Old Trafford,Manchester,U
+129171.0,25.0,"Wed 10 Feb 2027, 20:00 GMT",Newcastle United,Chelsea,St. James' Park,Newcastle,U
+129172.0,25.0,"Wed 10 Feb 2027, 20:00 GMT",Tottenham Hotspur,Manchester City,Tottenham Hotspur Stadium,London,U
+129173.0,26.0,"Sat 20 Feb 2027, 15:00 GMT",Arsenal,Fulham,Emirates Stadium,London,U
+129174.0,26.0,"Sat 20 Feb 2027, 15:00 GMT",Bournemouth,Crystal Palace,Vitality Stadium,Bournemouth,U
+129175.0,26.0,"Sat 20 Feb 2027, 15:00 GMT",Brentford,Coventry City,Gtech Community Stadium,Brentford,U
+129176.0,26.0,"Sat 20 Feb 2027, 15:00 GMT",Brighton & Hove Albion,Tottenham Hotspur,American Express Stadium,Falmer,U
+129177.0,26.0,"Sat 20 Feb 2027, 15:00 GMT",Chelsea,Ipswich Town,Stamford Bridge,London,U
+129178.0,26.0,"Sat 20 Feb 2027, 15:00 GMT",Leeds United,Aston Villa,Elland Road,Leeds,U
+129179.0,26.0,"Sat 20 Feb 2027, 15:00 GMT",Liverpool,Hull City,Anfield,Liverpool,U
+129180.0,26.0,"Sat 20 Feb 2027, 15:00 GMT",Manchester City,Newcastle United,Etihad Stadium,Manchester,U
+129181.0,26.0,"Sat 20 Feb 2027, 15:00 GMT",Nottingham Forest,Manchester United,The City Ground,Nottingham,U
+129182.0,26.0,"Sat 20 Feb 2027, 15:00 GMT",Sunderland,Everton,Stadium of Light,Sunderland,U
+129183.0,27.0,"Sat 27 Feb 2027, 15:00 GMT",Aston Villa,Chelsea,Villa Park,Birmingham,U
+129184.0,27.0,"Sat 27 Feb 2027, 15:00 GMT",Coventry City,Bournemouth,Coventry Building Society Arena,Coventry,U
+129185.0,27.0,"Sat 27 Feb 2027, 15:00 GMT",Crystal Palace,Sunderland,Selhurst Park,London,U
+129186.0,27.0,"Sat 27 Feb 2027, 15:00 GMT",Everton,Nottingham Forest,Hill Dickinson Stadium,Liverpool,U
+129187.0,27.0,"Sat 27 Feb 2027, 15:00 GMT",Fulham,Leeds United,Craven Cottage,London,U
+129188.0,27.0,"Sat 27 Feb 2027, 15:00 GMT",Hull City,Manchester City,The MKM Stadium,Hull,U
+129189.0,27.0,"Sat 27 Feb 2027, 15:00 GMT",Ipswich Town,Brighton & Hove Albion,Portman Road,Ipswich,U
+129190.0,27.0,"Sat 27 Feb 2027, 15:00 GMT",Manchester United,Arsenal,Old Trafford,Manchester,U
+129191.0,27.0,"Sat 27 Feb 2027, 15:00 GMT",Newcastle United,Brentford,St. James' Park,Newcastle,U
+129192.0,27.0,"Sat 27 Feb 2027, 15:00 GMT",Tottenham Hotspur,Liverpool,Tottenham Hotspur Stadium,London,U
+129193.0,28.0,"Wed 3 Mar 2027, 20:00 GMT",Arsenal,Crystal Palace,Emirates Stadium,London,U
+129194.0,28.0,"Wed 3 Mar 2027, 20:00 GMT",Bournemouth,Tottenham Hotspur,Vitality Stadium,Bournemouth,U
+129195.0,28.0,"Wed 3 Mar 2027, 20:00 GMT",Brentford,Ipswich Town,Gtech Community Stadium,Brentford,U
+129196.0,28.0,"Wed 3 Mar 2027, 20:00 GMT",Brighton & Hove Albion,Fulham,American Express Stadium,Falmer,U
+129197.0,28.0,"Wed 3 Mar 2027, 20:00 GMT",Chelsea,Coventry City,Stamford Bridge,London,U
+129198.0,28.0,"Wed 3 Mar 2027, 20:00 GMT",Leeds United,Hull City,Elland Road,Leeds,U
+129199.0,28.0,"Wed 3 Mar 2027, 20:00 GMT",Liverpool,Aston Villa,Anfield,Liverpool,U
+129200.0,28.0,"Wed 3 Mar 2027, 20:00 GMT",Manchester City,Everton,Etihad Stadium,Manchester,U
+129201.0,28.0,"Wed 3 Mar 2027, 20:00 GMT",Nottingham Forest,Newcastle United,The City Ground,Nottingham,U
+129202.0,28.0,"Wed 3 Mar 2027, 20:00 GMT",Sunderland,Manchester United,Stadium of Light,Sunderland,U
+129203.0,29.0,"Sat 13 Mar 2027, 15:00 GMT",Aston Villa,Hull City,Villa Park,Birmingham,U
+129204.0,29.0,"Sat 13 Mar 2027, 15:00 GMT",Bournemouth,Newcastle United,Vitality Stadium,Bournemouth,U
+129205.0,29.0,"Sat 13 Mar 2027, 15:00 GMT",Chelsea,Arsenal,Stamford Bridge,London,U
+129206.0,29.0,"Sat 13 Mar 2027, 15:00 GMT",Coventry City,Manchester City,Coventry Building Society Arena,Coventry,U
+129207.0,29.0,"Sat 13 Mar 2027, 15:00 GMT",Crystal Palace,Fulham,Selhurst Park,London,U
+129208.0,29.0,"Sat 13 Mar 2027, 15:00 GMT",Leeds United,Brighton & Hove Albion,Elland Road,Leeds,U
+129209.0,29.0,"Sat 13 Mar 2027, 15:00 GMT",Liverpool,Ipswich Town,Anfield,Liverpool,U
+129210.0,29.0,"Sat 13 Mar 2027, 15:00 GMT",Manchester United,Everton,Old Trafford,Manchester,U
+129211.0,29.0,"Sat 13 Mar 2027, 15:00 GMT",Sunderland,Brentford,Stadium of Light,Sunderland,U
+129212.0,29.0,"Sat 13 Mar 2027, 15:00 GMT",Tottenham Hotspur,Nottingham Forest,Tottenham Hotspur Stadium,London,U
+129213.0,30.0,"Sat 20 Mar 2027, 15:00 GMT",Arsenal,Sunderland,Emirates Stadium,London,U
+129214.0,30.0,"Sat 20 Mar 2027, 15:00 GMT",Brentford,Bournemouth,Gtech Community Stadium,Brentford,U
+129215.0,30.0,"Sat 20 Mar 2027, 15:00 GMT",Brighton & Hove Albion,Coventry City,American Express Stadium,Falmer,U
+129216.0,30.0,"Sat 20 Mar 2027, 15:00 GMT",Everton,Tottenham Hotspur,Hill Dickinson Stadium,Liverpool,U
+129217.0,30.0,"Sat 20 Mar 2027, 15:00 GMT",Fulham,Liverpool,Craven Cottage,London,U
+129218.0,30.0,"Sat 20 Mar 2027, 15:00 GMT",Hull City,Chelsea,The MKM Stadium,Hull,U
+129219.0,30.0,"Sat 20 Mar 2027, 15:00 GMT",Ipswich Town,Crystal Palace,Portman Road,Ipswich,U
+129220.0,30.0,"Sat 20 Mar 2027, 15:00 GMT",Manchester City,Manchester United,Etihad Stadium,Manchester,U
+129221.0,30.0,"Sat 20 Mar 2027, 15:00 GMT",Newcastle United,Leeds United,St. James' Park,Newcastle,U
+129222.0,30.0,"Sat 20 Mar 2027, 15:00 GMT",Nottingham Forest,Aston Villa,The City Ground,Nottingham,U
+129223.0,31.0,"Sat 10 Apr 2027, 15:00 BST",Aston Villa,Brighton & Hove Albion,Villa Park,Birmingham,U
+129224.0,31.0,"Sat 10 Apr 2027, 15:00 BST",Bournemouth,Manchester City,Vitality Stadium,Bournemouth,U
+129225.0,31.0,"Sat 10 Apr 2027, 15:00 BST",Chelsea,Fulham,Stamford Bridge,London,U
+129226.0,31.0,"Sat 10 Apr 2027, 15:00 BST",Coventry City,Arsenal,Coventry Building Society Arena,Coventry,U
+129227.0,31.0,"Sat 10 Apr 2027, 15:00 BST",Crystal Palace,Everton,Selhurst Park,London,U
+129228.0,31.0,"Sat 10 Apr 2027, 15:00 BST",Leeds United,Nottingham Forest,Elland Road,Leeds,U
+129229.0,31.0,"Sat 10 Apr 2027, 15:00 BST",Liverpool,Newcastle United,Anfield,Liverpool,U
+129230.0,31.0,"Sat 10 Apr 2027, 15:00 BST",Manchester United,Hull City,Old Trafford,Manchester,U
+129231.0,31.0,"Sat 10 Apr 2027, 15:00 BST",Sunderland,Ipswich Town,Stadium of Light,Sunderland,U
+129232.0,31.0,"Sat 10 Apr 2027, 15:00 BST",Tottenham Hotspur,Brentford,Tottenham Hotspur Stadium,London,U
+129233.0,32.0,"Sat 17 Apr 2027, 15:00 BST",Arsenal,Aston Villa,Emirates Stadium,London,U
+129234.0,32.0,"Sat 17 Apr 2027, 15:00 BST",Brentford,Leeds United,Gtech Community Stadium,Brentford,U
+129235.0,32.0,"Sat 17 Apr 2027, 15:00 BST",Brighton & Hove Albion,Chelsea,American Express Stadium,Falmer,U
+129236.0,32.0,"Sat 17 Apr 2027, 15:00 BST",Everton,Bournemouth,Hill Dickinson Stadium,Liverpool,U
+129237.0,32.0,"Sat 17 Apr 2027, 15:00 BST",Fulham,Sunderland,Craven Cottage,London,U
+129238.0,32.0,"Sat 17 Apr 2027, 15:00 BST",Hull City,Coventry City,The MKM Stadium,Hull,U
+129239.0,32.0,"Sat 17 Apr 2027, 15:00 BST",Ipswich Town,Manchester United,Portman Road,Ipswich,U
+129240.0,32.0,"Sat 17 Apr 2027, 15:00 BST",Manchester City,Crystal Palace,Etihad Stadium,Manchester,U
+129241.0,32.0,"Sat 17 Apr 2027, 15:00 BST",Newcastle United,Tottenham Hotspur,St. James' Park,Newcastle,U
+129242.0,32.0,"Sat 17 Apr 2027, 15:00 BST",Nottingham Forest,Liverpool,The City Ground,Nottingham,U
+129243.0,33.0,"Sat 24 Apr 2027, 15:00 BST",Aston Villa,Coventry City,Villa Park,Birmingham,U
+129244.0,33.0,"Sat 24 Apr 2027, 15:00 BST",Bournemouth,Arsenal,Vitality Stadium,Bournemouth,U
+129245.0,33.0,"Sat 24 Apr 2027, 15:00 BST",Brentford,Fulham,Gtech Community Stadium,Brentford,U
+129246.0,33.0,"Sat 24 Apr 2027, 15:00 BST",Chelsea,Manchester City,Stamford Bridge,London,U
+129247.0,33.0,"Sat 24 Apr 2027, 15:00 BST",Everton,Brighton & Hove Albion,Hill Dickinson Stadium,Liverpool,U
+129248.0,33.0,"Sat 24 Apr 2027, 15:00 BST",Leeds United,Liverpool,Elland Road,Leeds,U
+129249.0,33.0,"Sat 24 Apr 2027, 15:00 BST",Manchester United,Crystal Palace,Old Trafford,Manchester,U
+129250.0,33.0,"Sat 24 Apr 2027, 15:00 BST",Newcastle United,Ipswich Town,St. James' Park,Newcastle,U
+129251.0,33.0,"Sat 24 Apr 2027, 15:00 BST",Nottingham Forest,Sunderland,The City Ground,Nottingham,U
+129252.0,33.0,"Sat 24 Apr 2027, 15:00 BST",Tottenham Hotspur,Hull City,Tottenham Hotspur Stadium,London,U
+129253.0,34.0,"Sat 1 May 2027, 15:00 BST",Arsenal,Tottenham Hotspur,Emirates Stadium,London,U
+129254.0,34.0,"Sat 1 May 2027, 15:00 BST",Brighton & Hove Albion,Nottingham Forest,American Express Stadium,Falmer,U
+129255.0,34.0,"Sat 1 May 2027, 15:00 BST",Coventry City,Manchester United,Coventry Building Society Arena,Coventry,U
+129256.0,34.0,"Sat 1 May 2027, 15:00 BST",Crystal Palace,Aston Villa,Selhurst Park,London,U
+129257.0,34.0,"Sat 1 May 2027, 15:00 BST",Fulham,Everton,Craven Cottage,London,U
+129258.0,34.0,"Sat 1 May 2027, 15:00 BST",Hull City,Bournemouth,The MKM Stadium,Hull,U
+129259.0,34.0,"Sat 1 May 2027, 15:00 BST",Ipswich Town,Leeds United,Portman Road,Ipswich,U
+129260.0,34.0,"Sat 1 May 2027, 15:00 BST",Liverpool,Chelsea,Anfield,Liverpool,U
+129261.0,34.0,"Sat 1 May 2027, 15:00 BST",Manchester City,Brentford,Etihad Stadium,Manchester,U
+129262.0,34.0,"Sat 1 May 2027, 15:00 BST",Sunderland,Newcastle United,Stadium of Light,Sunderland,U
+129263.0,35.0,"Sat 8 May 2027, 15:00 BST",Bournemouth,Manchester United,Vitality Stadium,Bournemouth,U
+129264.0,35.0,"Sat 8 May 2027, 15:00 BST",Brentford,Aston Villa,Gtech Community Stadium,Brentford,U
+129265.0,35.0,"Sat 8 May 2027, 15:00 BST",Brighton & Hove Albion,Sunderland,American Express Stadium,Falmer,U
+129266.0,35.0,"Sat 8 May 2027, 15:00 BST",Everton,Hull City,Hill Dickinson Stadium,Liverpool,U
+129267.0,35.0,"Sat 8 May 2027, 15:00 BST",Fulham,Ipswich Town,Craven Cottage,London,U
+129268.0,35.0,"Sat 8 May 2027, 15:00 BST",Leeds United,Arsenal,Elland Road,Leeds,U
+129269.0,35.0,"Sat 8 May 2027, 15:00 BST",Manchester City,Liverpool,Etihad Stadium,Manchester,U
+129270.0,35.0,"Sat 8 May 2027, 15:00 BST",Newcastle United,Coventry City,St. James' Park,Newcastle,U
+129271.0,35.0,"Sat 8 May 2027, 15:00 BST",Nottingham Forest,Crystal Palace,The City Ground,Nottingham,U
+129272.0,35.0,"Sat 8 May 2027, 15:00 BST",Tottenham Hotspur,Chelsea,Tottenham Hotspur Stadium,London,U
+129273.0,36.0,"Sat 15 May 2027, 15:00 BST",Arsenal,Nottingham Forest,Emirates Stadium,London,U
+129274.0,36.0,"Sat 15 May 2027, 15:00 BST",Aston Villa,Newcastle United,Villa Park,Birmingham,U
+129275.0,36.0,"Sat 15 May 2027, 15:00 BST",Chelsea,Everton,Stamford Bridge,London,U
+129276.0,36.0,"Sat 15 May 2027, 15:00 BST",Coventry City,Tottenham Hotspur,Coventry Building Society Arena,Coventry,U
+129277.0,36.0,"Sat 15 May 2027, 15:00 BST",Crystal Palace,Brighton & Hove Albion,Selhurst Park,London,U
+129278.0,36.0,"Sat 15 May 2027, 15:00 BST",Hull City,Fulham,The MKM Stadium,Hull,U
+129279.0,36.0,"Sat 15 May 2027, 15:00 BST",Ipswich Town,Manchester City,Portman Road,Ipswich,U
+129280.0,36.0,"Sat 15 May 2027, 15:00 BST",Liverpool,Brentford,Anfield,Liverpool,U
+129281.0,36.0,"Sat 15 May 2027, 15:00 BST",Manchester United,Leeds United,Old Trafford,Manchester,U
+129282.0,36.0,"Sat 15 May 2027, 15:00 BST",Sunderland,Bournemouth,Stadium of Light,Sunderland,U
+129283.0,37.0,"Sun 23 May 2027, 15:00 BST",Bournemouth,Chelsea,Vitality Stadium,Bournemouth,U
+129284.0,37.0,"Sun 23 May 2027, 15:00 BST",Brentford,Hull City,Gtech Community Stadium,Brentford,U
+129285.0,37.0,"Sun 23 May 2027, 15:00 BST",Brighton & Hove Albion,Liverpool,American Express Stadium,Falmer,U
+129286.0,37.0,"Sun 23 May 2027, 15:00 BST",Everton,Arsenal,Hill Dickinson Stadium,Liverpool,U
+129287.0,37.0,"Sun 23 May 2027, 15:00 BST",Fulham,Coventry City,Craven Cottage,London,U
+129288.0,37.0,"Sun 23 May 2027, 15:00 BST",Leeds United,Sunderland,Elland Road,Leeds,U
+129289.0,37.0,"Sun 23 May 2027, 15:00 BST",Manchester City,Aston Villa,Etihad Stadium,Manchester,U
+129290.0,37.0,"Sun 23 May 2027, 15:00 BST",Newcastle United,Crystal Palace,St. James' Park,Newcastle,U
+129291.0,37.0,"Sun 23 May 2027, 15:00 BST",Nottingham Forest,Ipswich Town,The City Ground,Nottingham,U
+129292.0,37.0,"Sun 23 May 2027, 15:00 BST",Tottenham Hotspur,Manchester United,Tottenham Hotspur Stadium,London,U
+129293.0,38.0,"Sun 30 May 2027, 16:00 BST",Arsenal,Brighton & Hove Albion,Emirates Stadium,London,U
+129294.0,38.0,"Sun 30 May 2027, 16:00 BST",Aston Villa,Tottenham Hotspur,Villa Park,Birmingham,U
+129295.0,38.0,"Sun 30 May 2027, 16:00 BST",Chelsea,Brentford,Stamford Bridge,London,U
+129296.0,38.0,"Sun 30 May 2027, 16:00 BST",Coventry City,Nottingham Forest,Coventry Building Society Arena,Coventry,U
+129297.0,38.0,"Sun 30 May 2027, 16:00 BST",Crystal Palace,Leeds United,Selhurst Park,London,U
+129298.0,38.0,"Sun 30 May 2027, 16:00 BST",Hull City,Newcastle United,The MKM Stadium,Hull,U
+129299.0,38.0,"Sun 30 May 2027, 16:00 BST",Ipswich Town,Everton,Portman Road,Ipswich,U
+129300.0,38.0,"Sun 30 May 2027, 16:00 BST",Liverpool,Bournemouth,Anfield,Liverpool,U
+129301.0,38.0,"Sun 30 May 2027, 16:00 BST",Manchester United,Fulham,Old Trafford,Manchester,U
+129302.0,38.0,"Sun 30 May 2027, 16:00 BST",Sunderland,Manchester City,Stadium of Light,Sunderland,U
