@@ -108,4 +108,4 @@ MIT
 
 ## Author
 
-Built by [Your Name] — [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/Yvciinn)
+Built by Yassine Khemiri — [LinkedIn](https://www.linkedin.com/in/yassine-khemiri-602259333/) · [GitHub](https://github.com/Yvciinn)
