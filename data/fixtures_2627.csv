@@ -1,34 +1,34 @@
 id,GW,kickoff,home_team,away_team,stadium,city,status
-128923.0,1.0,"Fri 21 Aug 2026, 20:00 BST",Arsenal,Coventry City,Emirates Stadium,London,U
-128926.0,1.0,"Sat 22 Aug 2026, 12:30 BST",Hull City,Manchester United,The MKM Stadium,Hull,U
-128925.0,1.0,"Sat 22 Aug 2026, 15:00 BST",Everton,Crystal Palace,Hill Dickinson Stadium,Liverpool,U
-128927.0,1.0,"Sat 22 Aug 2026, 15:00 BST",Ipswich Town,Sunderland,Portman Road,Ipswich,U
-128928.0,1.0,"Sat 22 Aug 2026, 15:00 BST",Nottingham Forest,Leeds United,The City Ground,Nottingham,U
-128924.0,1.0,"Sat 22 Aug 2026, 17:30 BST",Brentford,Tottenham Hotspur,Gtech Community Stadium,Brentford,U
-128929.0,1.0,"Sun 23 Aug 2026, 14:00 BST",Brighton & Hove Albion,Aston Villa,American Express Stadium,Falmer,U
-128930.0,1.0,"Sun 23 Aug 2026, 14:00 BST",Manchester City,Bournemouth,Etihad Stadium,Manchester,U
-128931.0,1.0,"Sun 23 Aug 2026, 16:30 BST",Newcastle United,Liverpool,St. James' Park,Newcastle,U
-128932.0,1.0,"Mon 24 Aug 2026, 20:00 BST",Fulham,Chelsea,Craven Cottage,London,U
-128937.0,2.0,"Fri 28 Aug 2026, 20:00 BST",Crystal Palace,Manchester City,Selhurst Park,London,U
-128939.0,2.0,"Sat 29 Aug 2026, 12:30 BST",Liverpool,Nottingham Forest,Anfield,Liverpool,U
-128934.0,2.0,"Sat 29 Aug 2026, 15:00 BST",Bournemouth,Everton,Vitality Stadium,Bournemouth,U
-128936.0,2.0,"Sat 29 Aug 2026, 15:00 BST",Coventry City,Hull City,Coventry Building Society Arena,Coventry,U
-128942.0,2.0,"Sat 29 Aug 2026, 17:30 BST",Tottenham Hotspur,Newcastle United,Tottenham Hotspur Stadium,London,U
-128935.0,2.0,"Sun 30 Aug 2026, 14:00 BST",Chelsea,Brighton & Hove Albion,Stamford Bridge,London,U
-128938.0,2.0,"Sun 30 Aug 2026, 14:00 BST",Leeds United,Brentford,Elland Road,Leeds,U
-128941.0,2.0,"Sun 30 Aug 2026, 14:00 BST",Sunderland,Fulham,Stadium of Light,Sunderland,U
-128940.0,2.0,"Sun 30 Aug 2026, 16:30 BST",Manchester United,Ipswich Town,Old Trafford,Manchester,U
-128933.0,2.0,"Mon 31 Aug 2026, 20:00 BST",Aston Villa,Arsenal,Villa Park,Birmingham,U
-128949.0,3.0,"Fri 4 Sep 2026, 20:00 BST",Ipswich Town,Liverpool,Portman Road,Ipswich,U
-128951.0,3.0,"Sat 5 Sep 2026, 12:30 BST",Newcastle United,Bournemouth,St. James' Park,Newcastle,U
-128944.0,3.0,"Sat 5 Sep 2026, 15:00 BST",Brentford,Sunderland,Gtech Community Stadium,Brentford,U
-128945.0,3.0,"Sat 5 Sep 2026, 15:00 BST",Brighton & Hove Albion,Leeds United,American Express Stadium,Falmer,U
-128947.0,3.0,"Sat 5 Sep 2026, 15:00 BST",Fulham,Crystal Palace,Craven Cottage,London,U
-128950.0,3.0,"Sat 5 Sep 2026, 15:00 BST",Manchester City,Coventry City,Etihad Stadium,Manchester,U
-128952.0,3.0,"Sat 5 Sep 2026, 15:00 BST",Nottingham Forest,Tottenham Hotspur,The City Ground,Nottingham,U
-128948.0,3.0,"Sat 5 Sep 2026, 17:30 BST",Hull City,Aston Villa,The MKM Stadium,Hull,U
-128946.0,3.0,"Sun 6 Sep 2026, 14:00 BST",Everton,Manchester United,Hill Dickinson Stadium,Liverpool,U
-128943.0,3.0,"Sun 6 Sep 2026, 16:30 BST",Arsenal,Chelsea,Emirates Stadium,London,U
+128923.0,1.0,"Fri 21 Aug 2026, 20:00 BST",Arsenal,Coventry City,Emirates Stadium,London,C
+128926.0,1.0,"Sat 22 Aug 2026, 12:30 BST",Hull City,Manchester United,The MKM Stadium,Hull,C
+128925.0,1.0,"Sat 22 Aug 2026, 15:00 BST",Everton,Crystal Palace,Hill Dickinson Stadium,Liverpool,C
+128927.0,1.0,"Sat 22 Aug 2026, 15:00 BST",Ipswich Town,Sunderland,Portman Road,Ipswich,C
+128928.0,1.0,"Sat 22 Aug 2026, 15:00 BST",Nottingham Forest,Leeds United,The City Ground,Nottingham,C
+128924.0,1.0,"Sat 22 Aug 2026, 17:30 BST",Brentford,Tottenham Hotspur,Gtech Community Stadium,Brentford,C
+128929.0,1.0,"Sun 23 Aug 2026, 14:00 BST",Brighton & Hove Albion,Aston Villa,American Express Stadium,Falmer,C
+128930.0,1.0,"Sun 23 Aug 2026, 14:00 BST",Manchester City,Bournemouth,Etihad Stadium,Manchester,C
+128931.0,1.0,"Sun 23 Aug 2026, 16:30 BST",Newcastle United,Liverpool,St. James' Park,Newcastle,C
+128932.0,1.0,"Mon 24 Aug 2026, 20:00 BST",Fulham,Chelsea,Craven Cottage,London,C
+128937.0,2.0,"Fri 28 Aug 2026, 20:00 BST",Crystal Palace,Manchester City,Selhurst Park,London,C
+128939.0,2.0,"Sat 29 Aug 2026, 12:30 BST",Liverpool,Nottingham Forest,Anfield,Liverpool,C
+128934.0,2.0,"Sat 29 Aug 2026, 15:00 BST",Bournemouth,Everton,Vitality Stadium,Bournemouth,C
+128936.0,2.0,"Sat 29 Aug 2026, 15:00 BST",Coventry City,Hull City,Coventry Building Society Arena,Coventry,C
+128942.0,2.0,"Sat 29 Aug 2026, 17:30 BST",Tottenham Hotspur,Newcastle United,Tottenham Hotspur Stadium,London,C
+128935.0,2.0,"Sun 30 Aug 2026, 14:00 BST",Chelsea,Brighton & Hove Albion,Stamford Bridge,London,C
+128938.0,2.0,"Sun 30 Aug 2026, 14:00 BST",Leeds United,Brentford,Elland Road,Leeds,C
+128941.0,2.0,"Sun 30 Aug 2026, 14:00 BST",Sunderland,Fulham,Stadium of Light,Sunderland,C
+128940.0,2.0,"Sun 30 Aug 2026, 16:30 BST",Manchester United,Ipswich Town,Old Trafford,Manchester,C
+128933.0,2.0,"Mon 31 Aug 2026, 20:00 BST",Aston Villa,Arsenal,Villa Park,Birmingham,C
+128949.0,3.0,"Fri 4 Sep 2026, 20:00 BST",Ipswich Town,Liverpool,Portman Road,Ipswich,C
+128951.0,3.0,"Sat 5 Sep 2026, 12:30 BST",Newcastle United,Bournemouth,St. James' Park,Newcastle,C
+128944.0,3.0,"Sat 5 Sep 2026, 15:00 BST",Brentford,Sunderland,Gtech Community Stadium,Brentford,C
+128945.0,3.0,"Sat 5 Sep 2026, 15:00 BST",Brighton & Hove Albion,Leeds United,American Express Stadium,Falmer,C
+128947.0,3.0,"Sat 5 Sep 2026, 15:00 BST",Fulham,Crystal Palace,Craven Cottage,London,C
+128950.0,3.0,"Sat 5 Sep 2026, 15:00 BST",Manchester City,Coventry City,Etihad Stadium,Manchester,C
+128952.0,3.0,"Sat 5 Sep 2026, 15:00 BST",Nottingham Forest,Tottenham Hotspur,The City Ground,Nottingham,C
+128948.0,3.0,"Sat 5 Sep 2026, 17:30 BST",Hull City,Aston Villa,The MKM Stadium,Hull,C
+128946.0,3.0,"Sun 6 Sep 2026, 14:00 BST",Everton,Manchester United,Hill Dickinson Stadium,Liverpool,C
+128943.0,3.0,"Sun 6 Sep 2026, 16:30 BST",Arsenal,Chelsea,Emirates Stadium,London,C
 128953.0,4.0,"Sat 12 Sep 2026, 15:00 BST",Aston Villa,Nottingham Forest,Villa Park,Birmingham,U
 128954.0,4.0,"Sat 12 Sep 2026, 15:00 BST",Bournemouth,Brentford,Vitality Stadium,Bournemouth,U
 128955.0,4.0,"Sat 12 Sep 2026, 15:00 BST",Chelsea,Hull City,Stamford Bridge,London,U
@@ -43,52 +43,52 @@ id,GW,kickoff,home_team,away_team,stadium,city,status
 128972.0,5.0,"Sat 19 Sep 2026, 12:30 BST",Tottenham Hotspur,Aston Villa,Tottenham Hotspur Stadium,London,U
 128965.0,5.0,"Sat 19 Sep 2026, 15:00 BST",Brighton & Hove Albion,Arsenal,American Express Stadium,Falmer,U
 128966.0,5.0,"Sat 19 Sep 2026, 15:00 BST",Everton,Ipswich Town,Hill Dickinson Stadium,Liverpool,U
-128968.0,5.0,"Sat 19 Sep 2026, 15:00 BST",Leeds United,Crystal Palace,Elland Road,Leeds,U
-128969.0,5.0,"Sat 19 Sep 2026, 15:00 BST",Manchester City,Sunderland,Etihad Stadium,Manchester,U
 128970.0,5.0,"Sat 19 Sep 2026, 15:00 BST",Newcastle United,Hull City,St. James' Park,Newcastle,U
 128971.0,5.0,"Sat 19 Sep 2026, 17:30 BST",Nottingham Forest,Coventry City,The City Ground,Nottingham,U
 128963.0,5.0,"Sun 20 Sep 2026, 14:00 BST",Bournemouth,Liverpool,Vitality Stadium,Bournemouth,U
+128968.0,5.0,"Sun 20 Sep 2026, 14:00 BST",Leeds United,Crystal Palace,Elland Road,Leeds,U
+128969.0,5.0,"Sun 20 Sep 2026, 14:00 BST",Manchester City,Sunderland,Etihad Stadium,Manchester,U
 128967.0,5.0,"Sun 20 Sep 2026, 16:30 BST",Fulham,Manchester United,Craven Cottage,London,U
-128973.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Arsenal,Leeds United,Emirates Stadium,London,U
+128973.0,6.0,"Sat 10 Oct 2026, 12:30 BST",Arsenal,Leeds United,Emirates Stadium,London,U
 128974.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Aston Villa,Brentford,Villa Park,Birmingham,U
 128975.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Chelsea,Bournemouth,Stamford Bridge,London,U
-128976.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Coventry City,Newcastle United,Coventry Building Society Arena,Coventry,U
-128977.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Crystal Palace,Nottingham Forest,Selhurst Park,London,U
-128978.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Hull City,Everton,The MKM Stadium,Hull,U
 128979.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Ipswich Town,Fulham,Portman Road,Ipswich,U
-128980.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Liverpool,Manchester City,Anfield,Liverpool,U
-128981.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Manchester United,Tottenham Hotspur,Old Trafford,Manchester,U
 128982.0,6.0,"Sat 10 Oct 2026, 15:00 BST",Sunderland,Brighton & Hove Albion,Stadium of Light,Sunderland,U
-128983.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Bournemouth,Sunderland,Vitality Stadium,Bournemouth,U
+128981.0,6.0,"Sat 10 Oct 2026, 17:30 BST",Manchester United,Tottenham Hotspur,Old Trafford,Manchester,U
+128977.0,6.0,"Sun 11 Oct 2026, 14:00 BST",Crystal Palace,Nottingham Forest,Selhurst Park,London,U
+128978.0,6.0,"Sun 11 Oct 2026, 14:00 BST",Hull City,Everton,The MKM Stadium,Hull,U
+128980.0,6.0,"Sun 11 Oct 2026, 16:30 BST",Liverpool,Manchester City,Anfield,Liverpool,U
+128976.0,6.0,"Mon 12 Oct 2026, 20:00 BST",Coventry City,Newcastle United,Coventry Building Society Arena,Coventry,U
+128986.0,7.0,"Sat 17 Oct 2026, 12:30 BST",Everton,Chelsea,Hill Dickinson Stadium,Liverpool,U
 128984.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Brentford,Liverpool,Gtech Community Stadium,Brentford,U
-128985.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Brighton & Hove Albion,Crystal Palace,American Express Stadium,Falmer,U
-128986.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Everton,Chelsea,Hill Dickinson Stadium,Liverpool,U
 128987.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Fulham,Hull City,Craven Cottage,London,U
-128988.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Leeds United,Manchester United,Elland Road,Leeds,U
 128989.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Manchester City,Ipswich Town,Etihad Stadium,Manchester,U
-128990.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Newcastle United,Aston Villa,St. James' Park,Newcastle,U
-128991.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Nottingham Forest,Arsenal,The City Ground,Nottingham,U
-128992.0,7.0,"Sat 17 Oct 2026, 15:00 BST",Tottenham Hotspur,Coventry City,Tottenham Hotspur Stadium,London,U
+128990.0,7.0,"Sat 17 Oct 2026, 17:30 BST",Newcastle United,Aston Villa,St. James' Park,Newcastle,U
+128983.0,7.0,"Sun 18 Oct 2026, 14:00 BST",Bournemouth,Sunderland,Vitality Stadium,Bournemouth,U
+128985.0,7.0,"Sun 18 Oct 2026, 14:00 BST",Brighton & Hove Albion,Crystal Palace,American Express Stadium,Falmer,U
+128988.0,7.0,"Sun 18 Oct 2026, 14:00 BST",Leeds United,Manchester United,Elland Road,Leeds,U
+128991.0,7.0,"Sun 18 Oct 2026, 16:30 BST",Nottingham Forest,Arsenal,The City Ground,Nottingham,U
+128992.0,7.0,"Mon 19 Oct 2026, 20:00 BST",Tottenham Hotspur,Coventry City,Tottenham Hotspur Stadium,London,U
+128999.0,8.0,"Fri 23 Oct 2026, 20:00 BST",Ipswich Town,Nottingham Forest,Portman Road,Ipswich,U
+128994.0,8.0,"Sat 24 Oct 2026, 12:30 BST",Aston Villa,Manchester City,Villa Park,Birmingham,U
 128993.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Arsenal,Everton,Emirates Stadium,London,U
-128994.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Aston Villa,Manchester City,Villa Park,Birmingham,U
-128995.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Chelsea,Tottenham Hotspur,Stamford Bridge,London,U
 128996.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Coventry City,Fulham,Coventry Building Society Arena,Coventry,U
-128997.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Crystal Palace,Newcastle United,Selhurst Park,London,U
-128998.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Hull City,Brentford,The MKM Stadium,Hull,U
-128999.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Ipswich Town,Nottingham Forest,Portman Road,Ipswich,U
-129000.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Liverpool,Brighton & Hove Albion,Anfield,Liverpool,U
-129001.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Manchester United,Bournemouth,Old Trafford,Manchester,U
-129002.0,8.0,"Sat 24 Oct 2026, 15:00 BST",Sunderland,Leeds United,Stadium of Light,Sunderland,U
-129003.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Aston Villa,Fulham,Villa Park,Birmingham,U
+128995.0,8.0,"Sat 24 Oct 2026, 17:30 BST",Chelsea,Tottenham Hotspur,Stamford Bridge,London,U
+128997.0,8.0,"Sun 25 Oct 2026, 14:00 GMT",Crystal Palace,Newcastle United,Selhurst Park,London,U
+128998.0,8.0,"Sun 25 Oct 2026, 14:00 GMT",Hull City,Brentford,The MKM Stadium,Hull,U
+129000.0,8.0,"Sun 25 Oct 2026, 14:00 GMT",Liverpool,Brighton & Hove Albion,Anfield,Liverpool,U
+129001.0,8.0,"Sun 25 Oct 2026, 14:00 GMT",Manchester United,Bournemouth,Old Trafford,Manchester,U
+129002.0,8.0,"Sun 25 Oct 2026, 16:30 GMT",Sunderland,Leeds United,Stadium of Light,Sunderland,U
+129006.0,9.0,"Sat 31 Oct 2026, 12:30 GMT",Chelsea,Manchester United,Stamford Bridge,London,U
 129004.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Bournemouth,Leeds United,Vitality Stadium,Bournemouth,U
 129005.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Brentford,Nottingham Forest,Gtech Community Stadium,Brentford,U
-129006.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Chelsea,Manchester United,Stamford Bridge,London,U
 129007.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Coventry City,Sunderland,Coventry Building Society Arena,Coventry,U
 129008.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Hull City,Ipswich Town,The MKM Stadium,Hull,U
-129009.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Liverpool,Arsenal,Anfield,Liverpool,U
 129010.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Manchester City,Brighton & Hove Albion,Etihad Stadium,Manchester,U
-129011.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Newcastle United,Everton,St. James' Park,Newcastle,U
-129012.0,9.0,"Sat 31 Oct 2026, 15:00 GMT",Tottenham Hotspur,Crystal Palace,Tottenham Hotspur Stadium,London,U
+129012.0,9.0,"Sat 31 Oct 2026, 17:30 GMT",Tottenham Hotspur,Crystal Palace,Tottenham Hotspur Stadium,London,U
+129003.0,9.0,"Sat 31 Oct 2026, 20:00 GMT",Aston Villa,Fulham,Villa Park,Birmingham,U
+129009.0,9.0,"Sun 1 Nov 2026, 16:30 GMT",Liverpool,Arsenal,Anfield,Liverpool,U
+129011.0,9.0,"Mon 2 Nov 2026, 20:00 GMT",Newcastle United,Everton,St. James' Park,Newcastle,U
 129013.0,10.0,"Sat 7 Nov 2026, 15:00 GMT",Arsenal,Hull City,Emirates Stadium,London,U
 129014.0,10.0,"Sat 7 Nov 2026, 15:00 GMT",Brighton & Hove Albion,Brentford,American Express Stadium,Falmer,U
 129015.0,10.0,"Sat 7 Nov 2026, 15:00 GMT",Crystal Palace,Liverpool,Selhurst Park,London,U

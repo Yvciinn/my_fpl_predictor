@@ -1,0 +1,45 @@
+fpl_predictor_web/
+│
+├── 📁 ml/                          # Your existing Python ML pipeline
+│   ├── fpl_data_collector.py
+│   ├── features.py
+│   ├── model.py
+│   ├── predict.py
+│   ├── builder.py
+│   └── outputs/
+│       ├── gw4_predictions.csv     # generated each GW
+│       └── best_team.json          # optimizer output
+│
+├── 📁 server/                      # Node.js + Express API
+│   ├── server.js                   # entry point
+│   ├── .env                        # MONGO_URI, PORT
+│   ├── 📁 routes/
+│   │   ├── players.js              # GET /api/players
+│   │   ├── predictions.js          # GET /api/predictions/gw/:gw
+│   │   ├── squad.js                # POST /api/squad/evaluate
+│   │   └── builder.js              # POST /api/squad/build
+│   ├── 📁 models/
+│   │   ├── Player.js               # Mongoose schema
+│   │   └── Prediction.js           # Mongoose schema
+│   ├── 📁 controllers/
+│   │   ├── playerController.js
+│   │   ├── predictionController.js
+│   │   └── squadController.js
+│   └── 📁 scripts/
+│       └── import_predictions.js   # reads CSV → pushes to MongoDB
+│
+└── 📁 client/                      # React frontend
+    └── src/
+        ├── 📁 pages/
+        │   ├── Home.jsx            # top 3 players per position
+        │   ├── SquadBuilder.jsx    # drag & drop team builder
+        │   └── Predictions.jsx     # full player rankings
+        ├── 📁 components/
+        │   ├── PlayerCard.jsx      # player photo, name, price, predicted pts
+        │   ├── Pitch.jsx           # visual football pitch (4-4-2 etc)
+        │   ├── TopPicks.jsx        # top 3 GK/DEF/MID/FWD cards
+        │   ├── SquadScore.jsx      # % score of user's squad
+        │   └── Suggester.jsx       # AI suggests remaining players
+        ├── 📁 services/
+        │   └── api.js              # axios calls to Express
+        └── App.jsx

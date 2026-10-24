@@ -1,10 +1,14 @@
 import pandas as pd
 import numpy as np
-from pulp import *
+import pulp
+from pulp import LpProblem, LpMaximize, LpVariable, lpSum, LpStatus, PULP_CBC_CMD
+import json
+from paths import PYTHON,BASE
 
-BASE = r'C:\Users\yacin\Documents\myfpl_predictor'
+gw=8
 
-players = pd.read_csv(rf'{BASE}\data\gw1_predictions.csv')
+
+players = pd.read_csv(rf'{BASE}\python\outputs\gw_predictions.csv')
 prob = LpProblem("FPL_Team_Selector", LpMaximize)
 x = LpVariable.dicts("player", players.index, cat='Binary')
 
@@ -42,3 +46,68 @@ print("="*60)
 for pos in ['GK', 'DEF', 'MID', 'FWD']:
     print(f"\n--- {pos} ---")
     print(selected[selected['pos_label'] == pos][['web_name', 'opponent', 'price', 'predicted_points']].to_string(index=False))
+print("===================================================")
+selected['rank'] = selected.groupby('pos_label')['predicted_points'].rank(ascending=False)
+formations = [
+    {'DEF': 3, 'MID': 5, 'FWD': 2},
+    {'DEF': 3, 'MID': 4, 'FWD': 3},
+    {'DEF': 4, 'MID': 3, 'FWD': 3},
+    {'DEF': 4, 'MID': 4, 'FWD': 2},
+    {'DEF': 4, 'MID': 5, 'FWD': 1},
+    {'DEF': 5, 'MID': 3, 'FWD': 2},
+    {'DEF': 5, 'MID': 4, 'FWD': 1},
+    {'DEF': 5, 'MID': 2, 'FWD': 3},
+]
+
+best_score=0
+best_formation=None
+best_lineup=None 
+
+for formation in formations : 
+    gk=selected[selected['pos_label']=='GK'].nlargest(1,'predicted_points')
+    defs=selected[selected['pos_label']=='DEF'].nlargest(formation['DEF'],'predicted_points')
+    mids=selected[selected['pos_label']=='MID'].nlargest(formation['MID'],'predicted_points')
+    fwds=selected[selected['pos_label']=='FWD'].nlargest(formation['FWD'],'predicted_points')
+    lineup=pd.concat([gk,defs,mids,fwds])
+    score=lineup['predicted_points'].sum()
+
+    if score>best_score :
+        best_score = score
+        best_formation=formation
+        best_lineup=lineup
+
+selected['is_starter']=selected.index.isin(best_lineup.index).astype(int)
+sorted_lp=best_lineup.sort_values('predicted_points',ascending=False)
+captain=sorted_lp.iloc[0]['web_name']
+vice_captain=sorted_lp.iloc[1]["web_name"]
+selected["is_captain"]=(selected["web_name"]==captain).astype(int)
+selected["is_vice_captain"]=(selected["web_name"]==vice_captain).astype(int)
+keep_cols = ['id','web_name', 'first_name', 'last_name', 'team', 
+             'pos_label', 'price', 'opponent', 'was_home',
+             'predicted_points', 'avg_pts_last3', 
+             'is_starter', 'is_captain', 'is_vice_captain']
+
+squad = {}
+for pos in ['GK', 'DEF', 'MID', 'FWD']:
+    squad[pos] = selected[selected['pos_label'] == pos][keep_cols].to_dict('records')
+
+output = {
+    "gameweek": gw,
+    "generated_at": pd.Timestamp.now().isoformat(),
+    "budget": {
+        "total": 100.0,
+        "spent": round(selected['price'].sum(), 1),
+        "remaining": round(100.0 - selected['price'].sum(), 1)
+    },
+    "summary": {
+        "total_predicted_points": round(best_lineup['predicted_points'].sum(), 2),
+        "best_formation": f"{best_formation['DEF']}-{best_formation['MID']}-{best_formation['FWD']}"
+    },
+    "captain": captain,
+    "vice_captain": vice_captain,
+    "squad": squad
+}
+dump = PYTHON / 'outputs' / 'best_team.json'
+with open(dump, 'w') as f:
+    json.dump(output, f, indent=2)
+    print("saved")                   
